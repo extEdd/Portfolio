@@ -1,7 +1,16 @@
-<h1>Hi, I'm Ed!</h1>
-<h3><a href="https://github.com/extEdd">GitHub</a> | <a href="https://www.linkedin.com/in/exted/">LinkedIn</a> | <a href="https://github.com/extEdd/Portfolio">Portfolio</a></h3>
+# Ed — Engineering Portfolio
 
-Welcome to my project portfolio! I am an engineering student exploring aerospace design and structural analysis. This page highlights my work with AutoCAD, MATLAB, and FEA stress testing. Here you'll find a collection of my projects.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/extEdd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/exted/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/extEdd/Portfolio)
+> **I am an engineering student interested in aerospace design, FEA stress analysis, and structural analysis.**  
+>  Here you'll find a collection of my projects.
+
+---
+
+[GitHub](https://github.com/extEdd) / [LinkedIn](https://www.linkedin.com/in/exted/) / [Portfolio](https://github.com/extEdd/Portfolio)
+> **I am an engineering student interested in aerospace design, FEA stress analysis, and structural analysis.**  
+>  Here you'll find a collection of my projects.
 
 <h2> AutoCAD & Drafting Projects</h2>
 
@@ -18,6 +27,5 @@ Welcome to my project portfolio! I am an engineering student exploring aerospace
 <h2> Prototyping</h2>
 
 * **[TITLE PlaceHolders](linkplaceholder)** — *Placeholders*
-* **[TITLE PlaceHolders](linkplaceholder)** — *Placeholders* 
-
+* **[TITLE PlaceHolders](linkplaceholder)** — *Placeholders* 
 
