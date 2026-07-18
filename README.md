@@ -7,10 +7,6 @@
 >  Here you'll find a collection of my projects.
 
 ---
-[GitHub](https://github.com/extEdd) / [LinkedIn](https://www.linkedin.com/in/exted/) / [Portfolio](https://github.com/extEdd/Portfolio)
-> **I am an engineering student interested in aerospace design, FEA stress analysis, and structural analysis.**  
->  Here you'll find a collection of my projects.
----
 
 <details>
 <summary><b>AutoCAD & Drafting Projects</b></summary>
